@@ -1,0 +1,5 @@
+Please use:
+
+./proj.py 1 1 10 10 0 
+
+to generate an output where DM, AP fail, while APR get to the global solution
